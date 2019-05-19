@@ -43,15 +43,43 @@ Files:
 - power-on.logicdata: Saleae logic analyzer format)
 - power-on.csv: Export from Saleae Logic)
 - power-on-2.csv: Export from Saleae Logic old version)
-- power-on-TV-channel.jpg: TV Screenshot (INFO page)
+- power-on-TV.jpg: TV Screenshot (INFO page)
 - power-on-IF-output.jpg: IF spectrum centered to 5.07 MHz, span 10 MHz
 - power-on-IF-output-2.jpg: IF spectrum centered to 4.57 MHz, span 10 MHz
 
 Tuning info:
  - Channel: 168, "LA 8"
  - Frequency: 650 MHz
- - BW: 8MHz
+ - BW: 8 MHz
  - Mode: DVB-T
+
+### 177.5MHz-7MHz
+
+Description: Manual tuning on 177.5 MHz, BW 7 MHz, antenna disconnected
+
+Files:
+- 177.5MHz-7MHz.logicdata: Saleae logic analyzer format)
+- 177.5MHz-7MHz.csv: Export from Saleae Logic)
+- 177.5MHz-7MHz-2.csv: Export from Saleae Logic old version)
+- 177.5MHz-7MHz-TV.jpg: TV Screenshot (Manual tuning page)
+
+Tuning info:
+ - Frequency: 177.5 MHz
+ - BW: 7 MHz
+
+ ### 186.0MHz-7MHz
+
+Description: Manual tuning on 186.0 MHz, BW 7 MHz, antenna disconnected
+
+Files:
+- 186.0MHz-7MHz.logicdata: Saleae logic analyzer format)
+- 186.0MHz-7MHz.csv: Export from Saleae Logic)
+- 186.0MHz-7MHz-2.csv: Export from Saleae Logic old version)
+- 186.0MHz-7MHz-TV.jpg: TV Screenshot (Manual tuning page)
+
+Tuning info:
+ - Frequency: 186.0 MHz
+ - BW: 7 MHz
 
 # References
 

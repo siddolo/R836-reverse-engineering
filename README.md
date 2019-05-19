@@ -4,7 +4,7 @@ Trying to reverse engineer the Rafael Micro R836
 
 # I2C Address (7bit)
 
-Depends by pin 15:
+Depends on pin 15:
 
 - 0x3A (0111010) PIN 15 floating
 - 0x1A (0011010) PIN 15 connected to GND

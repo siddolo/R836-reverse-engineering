@@ -4,5 +4,5 @@ Trying to reverse engineer the Rafael Micro R836
 
 ## Devices
 
-- [LinQ DH1692](LinQ-dh1692/README.md)
+- [LinQ DH1692](LinQ-dh1692/)
 

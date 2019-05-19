@@ -67,7 +67,7 @@ Tuning info:
  - Frequency: 177.5 MHz
  - BW: 7 MHz
 
- ### 186.0MHz-7MHz
+### 186.0MHz-7MHz
 
 Description: Manual tuning on 186.0 MHz, BW 7 MHz, antenna disconnected
 
@@ -80,6 +80,34 @@ Files:
 Tuning info:
  - Frequency: 186.0 MHz
  - BW: 7 MHz
+
+### 194.5MHz-7MHz
+
+Description: Manual tuning on 194.5 MHz, BW 7 MHz, antenna disconnected
+
+Files:
+- 194.5MHz-7MHz.logicdata: Saleae logic analyzer format)
+- 194.5MHz-7MHz.csv: Export from Saleae Logic)
+- 194.5MHz-7MHz-2.csv: Export from Saleae Logic old version)
+- 194.5MHz-7MHz-TV.jpg: TV Screenshot (Manual tuning page)
+
+Tuning info:
+ - Frequency: 194.5 MHz
+ - BW: 7 MHz
+
+### 474.0MHz-8MHz
+
+Description: Manual tuning on 474.0 MHz, BW 8 MHz, antenna disconnected
+
+Files:
+- 474.0MHz-8MHz.logicdata: Saleae logic analyzer format)
+- 474.0MHz-8MHz.csv: Export from Saleae Logic)
+- 474.0MHz-8MHz-2.csv: Export from Saleae Logic old version)
+- 474.0MHz-8MHz-TV.jpg: TV Screenshot (Manual tuning page)
+
+Tuning info:
+ - Frequency: 474.0 MHz
+ - BW: 8 MHz
 
 # References
 
